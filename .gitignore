@@ -17,6 +17,7 @@ dist/
 
 # Local data / generated files
 work_log.json
+book_log.json
 
 # Editor / OS
 .vscode/
