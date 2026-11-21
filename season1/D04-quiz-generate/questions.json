@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Pythonでリストの末尾に要素を追加するメソッドは？",
+    "choices": [
+      "append()",
+      "add()",
+      "insert_end()",
+      "push()"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 2,
+    "question": "Pythonで条件分岐を行うキーワードは？",
+    "choices": [
+      "when",
+      "switch",
+      "if",
+      "check"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 3,
+    "question": "random.randint(1, 6)が返す値は？",
+    "choices": [
+      "1以上6未満の整数",
+      "1以上6以下の整数",
+      "0以上6以下の整数",
+      "1以上6以下の小数"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 4,
+    "question": "Pythonで辞書からキーnameに対応する値を取得する書き方は？",
+    "choices": [
+      "data.name",
+      "data(name)",
+      "data->name",
+      "data['name']"
+    ],
+    "correct_index": 3
+  },
+  {
+    "id": 5,
+    "question": "PythonでJSONファイルの内容を読み込む関数は？",
+    "choices": [
+      "json.dump()",
+      "json.save()",
+      "json.load()",
+      "json.write()"
+    ],
+    "correct_index": 2
+  }
+]
