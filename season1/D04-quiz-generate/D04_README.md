@@ -25,7 +25,7 @@ JSONファイルに定義した問題から指定数を重複なく抽出し、�
 ## ファイル構成
 
 ```text
-D04-quiz-app/
+D04-quiz-generate/
 ├── D04_Final.py
 ├── questions.json
 ├── D04_Quiz_Generate.py
