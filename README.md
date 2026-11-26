@@ -39,6 +39,7 @@
 | D02 | [作業時間集計ツール](season1/D02-work-time-tracker/) | 2026-11-15 | 公開済み |
 | D03 | [読書記録CLI](season1/D03-reading-log-cli/) | 2026-11-18 | 公開済み |
 | D04 | [クイズ生成・採点アプリ](season1/D04-quiz-generate/) | 2026-11-21 | 公開済み |
+| D05 | [CSV成績分析ツール](season1/D05-csv-analyzer/) | 2026-11-26 | 公開済み |
 
 今後、制作の進捗に応じて一覧を更新します。
 
