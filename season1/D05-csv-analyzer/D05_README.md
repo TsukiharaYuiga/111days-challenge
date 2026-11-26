@@ -27,7 +27,7 @@ D01〜D04で学んだリスト、繰り返し処理、数値計算、条件分�
 ## 4. ファイル構成
 
 ```text
-D05-csv-score-analyzer/
+D05-csv-analyzer/
 ├── D05_Final.py
 ├── D05_CSV_Analyzer.py
 ├── scores.csv
